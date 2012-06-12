@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>licnepTest</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		My first mobile app evaaa! yay!
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://licnep.github.com"
+		email="lsnpreziosi@gmail.com">
+		Alessandro Preziosi
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
